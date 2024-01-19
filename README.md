@@ -1,0 +1,1 @@
+Kernels to convert depth map to world coordinates and to generate a depth map given a volume texture. ![HEiBKnY4](https://github.com/nicorodca/depthmap-processing-CUDA/assets/157152261/26bd0e55-a529-4037-819a-e99664573ce8)
